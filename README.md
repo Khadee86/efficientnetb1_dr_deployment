@@ -1,11 +1,11 @@
 # Diabetic Retinopathy Classifier with XAI (Streamlit App)
 
-This project is a web-based application for multi-class classification of diabetic retinopathy (DR) using **EfficientNetB0** model with integrated **explainable AI** techniques: **Grad-CAM++** and **LIME**.
+This project is a web-based application for multi-class classification of diabetic retinopathy (DR) using **EfficientNetB1** model with integrated **explainable AI** techniques: **Grad-CAM++** and **LIME**.
 
 ---
 
 ## 🚀 Features
-- Upload a retina image and classify DR severity with EfficientNet B0
+- Upload a retina image and classify DR severity with EfficientNet B1
 - View Grad-CAM++ heatmap of model focus
 - View LIME explanation of prediction
 - Built with Streamlit for fast and clean UI
