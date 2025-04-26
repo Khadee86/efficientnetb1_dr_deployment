@@ -98,7 +98,7 @@ def generate_lime_explanation(model, img_array):
 
 # ---------- STREAMLIT UI ----------
 st.title("👁️ Diabetic Retinopathy Classifier")
-st.write("Upload a **retinal fundus image** to detect DR severity using EfficientNetB3 and XAI.")
+st.write("Upload a **retinal fundus image** to detect DR severity using EfficientNetB1 and XAI.")
 
 uploaded_file = st.file_uploader("Upload a Retinal Image", type=["jpg", "jpeg", "png"])
 
