@@ -83,7 +83,7 @@ https://github.com/Khadee86/efficientnetb1_dr_deployment
 └── README.md                    # ReadMe.md
 └── XAI_imgs/  				#output explainable AI images
 └── aptos2019-blindness-detection.zip  #dataset
-
+```
 ## 📄 Project Summary
 
 This project targets early detection and severity classification (0-4) of diabetic retinopathy using lightweight CNNs (EfficientNetB0–B3). The APTOS 2019 dataset is used with heavy preprocessing and data augmentation to ensure robustness. EfficientNetB3 had the best accuracy, while EfficientNetB1 was selected for deployment due to its performance-efficiency balance.
